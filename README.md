@@ -13,3 +13,7 @@
 1. cat(): concatenate contents to file
 1. mv(): also used for renaming
 1. cp()
+
+### TODO
+- [ ] Change from Vec to HashMap.
+- [ ] Make more functions to remove code duplication/
